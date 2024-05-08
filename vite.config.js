@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://sitodp.github.io/Rick-and-Morty/",
+
   plugins: [react()],
+  base: "/Rick-and-Morty/",
 })
