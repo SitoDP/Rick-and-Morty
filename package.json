@@ -1,7 +1,7 @@
 {
   "homepage": "https://sitodp.github.io/Rick-and-Morty/",
   "name": "rick-and-morty",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
